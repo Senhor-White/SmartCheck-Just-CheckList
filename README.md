@@ -1,5 +1,5 @@
 🚀 Demo online:
-[https://senhor-white.github.io/Um-simples-checklist/](https://senhor-white.github.io/Um-simples-checklist/)
+[https://senhor-white.github.io/Um-simples-checklist/](https://senhor-white.github.io/SmartCheck-Just-CheckList/)
 
 💾 Os dados são salvos no navegador (localStorage).
 
